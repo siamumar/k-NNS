@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Rice/Dropbox/SFE/VerilogCodes/k_NNS/k_nns_seq_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="k_nns_seq_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/k_nns_seq_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/local_min_dist[0]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[0,33:0]</obj_property>
+      <obj_property name="ObjectShortName">local_min_dist[0,33:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/local_min_dist[1]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[1,33:0]</obj_property>
+      <obj_property name="ObjectShortName">local_min_dist[1,33:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/min_dist[0]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[0,33:0]</obj_property>
+      <obj_property name="ObjectShortName">min_dist[0,33:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/min_dist_reg[0]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[0,33:0]</obj_property>
+      <obj_property name="ObjectShortName">min_dist_reg[0,33:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/local_min_val_y[0]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[0,31:0]</obj_property>
+      <obj_property name="ObjectShortName">local_min_val_y[0,31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/min_val[0]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[0,63:0]</obj_property>
+      <obj_property name="ObjectShortName">min_val[0,63:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/min_val_reg[0]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[0,63:0]</obj_property>
+      <obj_property name="ObjectShortName">min_val_reg[0,63:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/gt_dist_1[0]" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">[0]</obj_property>
+      <obj_property name="ObjectShortName">gt_dist_1[0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/x1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x1[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/y1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">y1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">y1[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/x2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x2[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/y2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">y2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">y2[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

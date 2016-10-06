@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Rice/Dropbox/SFE/VerilogCodes/k_NNS/k_nns_seq_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="k_nns_seq_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="23" />
+   <wvobject fp_name="/k_nns_seq_tb/g_input" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">g_input[63:0]</obj_property>
+      <obj_property name="ObjectShortName">g_input[63:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/o" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">o[511:0]</obj_property>
+      <obj_property name="ObjectShortName">o[511:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/xR" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">xR[7:0,31:0]</obj_property>
+      <obj_property name="ObjectShortName">xR[7:0,31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <wvobject fp_name="/k_nns_seq_tb/xR[7]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,31:0]</obj_property>
+         <obj_property name="ObjectShortName">xR[7,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/k_nns_seq_tb/xR[6]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,31:0]</obj_property>
+         <obj_property name="ObjectShortName">xR[6,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/k_nns_seq_tb/xR[5]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,31:0]</obj_property>
+         <obj_property name="ObjectShortName">xR[5,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/k_nns_seq_tb/xR[4]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,31:0]</obj_property>
+         <obj_property name="ObjectShortName">xR[4,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/k_nns_seq_tb/xR[3]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,31:0]</obj_property>
+         <obj_property name="ObjectShortName">xR[3,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/k_nns_seq_tb/xR[2]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,31:0]</obj_property>
+         <obj_property name="ObjectShortName">xR[2,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/k_nns_seq_tb/xR[1]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,31:0]</obj_property>
+         <obj_property name="ObjectShortName">xR[1,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/k_nns_seq_tb/xR[0]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,31:0]</obj_property>
+         <obj_property name="ObjectShortName">xR[0,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/yR" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">yR[7:0,31:0]</obj_property>
+      <obj_property name="ObjectShortName">yR[7:0,31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <wvobject fp_name="/k_nns_seq_tb/yR[7]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[7,31:0]</obj_property>
+         <obj_property name="ObjectShortName">yR[7,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/k_nns_seq_tb/yR[6]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[6,31:0]</obj_property>
+         <obj_property name="ObjectShortName">yR[6,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/k_nns_seq_tb/yR[5]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[5,31:0]</obj_property>
+         <obj_property name="ObjectShortName">yR[5,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/k_nns_seq_tb/yR[4]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[4,31:0]</obj_property>
+         <obj_property name="ObjectShortName">yR[4,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/k_nns_seq_tb/yR[3]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[3,31:0]</obj_property>
+         <obj_property name="ObjectShortName">yR[3,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/k_nns_seq_tb/yR[2]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[2,31:0]</obj_property>
+         <obj_property name="ObjectShortName">yR[2,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/k_nns_seq_tb/yR[1]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[1,31:0]</obj_property>
+         <obj_property name="ObjectShortName">yR[1,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/k_nns_seq_tb/yR[0]" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">[0,31:0]</obj_property>
+         <obj_property name="ObjectShortName">yR[0,31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/x1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x1[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/y1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">y1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">y1[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/x2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x2[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/y2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">y2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">y2[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/W" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">W[31:0]</obj_property>
+      <obj_property name="ObjectShortName">W[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/K" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">K[31:0]</obj_property>
+      <obj_property name="ObjectShortName">K[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/gt_dist_1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">gt_dist_1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">gt_dist_1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/min_val_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">min_val_reg[7:0,63:0]</obj_property>
+      <obj_property name="ObjectShortName">min_val_reg[7:0,63:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/min_val" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">min_val[7:0,63:0]</obj_property>
+      <obj_property name="ObjectShortName">min_val[7:0,63:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/local_min_val_x" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">local_min_val_x[8:0,31:0]</obj_property>
+      <obj_property name="ObjectShortName">local_min_val_x[8:0,31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/local_min_val_y" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">local_min_val_y[8:0,31:0]</obj_property>
+      <obj_property name="ObjectShortName">local_min_val_y[8:0,31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/min_dist_reg[0]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[0,33:0]</obj_property>
+      <obj_property name="ObjectShortName">min_dist_reg[0,33:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/min_val_reg[0]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[0,63:0]</obj_property>
+      <obj_property name="ObjectShortName">min_val_reg[0,63:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/local_min_dist[0]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[0,33:0]</obj_property>
+      <obj_property name="ObjectShortName">local_min_dist[0,33:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/local_min_val_y[0]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[0,31:0]</obj_property>
+      <obj_property name="ObjectShortName">local_min_val_y[0,31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/min_dist[0]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[0,33:0]</obj_property>
+      <obj_property name="ObjectShortName">min_dist[0,33:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/k_nns_seq_tb/uut/min_val[0]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[0,63:0]</obj_property>
+      <obj_property name="ObjectShortName">min_val[0,63:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
